@@ -2,13 +2,13 @@
 <h3 align="center">A student of Padang State University</h3>
 
 
-<img align="right" alt="coding" width="300" src="https://github.com/user-attachments/assets/304e098f-36a9-4945-a13e-cb38efb5aa5c">
+<img align="right" alt="coding" width="300" src="https://github.com/user-attachments/assets/4530196e-c62c-40c8-ac92-43ce3aa456fe">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasywalthafunnisa&label=Profile%20views&color=0e75b6&style=flat" alt="nasywalthafunnisa" /> </p>
 
 <h3 align="left">About me:</h3>
 
-- 👩🏻‍💻 I’m currently learning **Programming**
+- 👩🏻‍💻 I’m currently learning **C++**
 
 - 👯 I’m looking to collaborate with **Bill Gates**
 
@@ -18,7 +18,7 @@
 
 - 📁 My hobbies are **listening to music** and **watching films**
 
-- 🌟 Fun fact **I'm a cheerful person >-<**
+- 🌟 Fun fact **I'm a cheerful person >_<**
 
 
 <h3 align="left">Connect with me:</h3>
